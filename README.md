@@ -17,7 +17,7 @@ This project is no longer actively maintained, it should still work for the fore
 	<a href="https://matrix.to/#/#ytfzf-chat:matrix.org"><img src="https://img.shields.io/static/v1?color=%230eb687&message=chat&logo=matrix&label=matrix&style=flat-square" alt="Discord"></a>
     <br />
     <br />
-    <i>A POSIX script that helps you find Youtube vi (without API) and opens/downloads them using mpv/youtube-dl</i>
+    <i>A POSIX script that helps you find Youtube v (without API) and opens/downloads them using mpv/youtube-dl</i>
 	<hr>
 </p>
 
